@@ -1,0 +1,71 @@
+@media(max-width:769px){
+	.edu-item{
+		float:right;
+	}
+	.page1-right-part{
+		margin-bottom:100px;
+	}
+	
+}
+@media(max-width:766px){
+.circles{
+	display:none;
+}
+	
+}
+@media(max-width:1104px){
+	.page3-right-part{
+		float:left;
+		width:100%
+	}
+	.page3-left-part{
+		margin-bottom:100px;
+		float:right
+	}
+	
+}
+@media(max-width:592px){
+	.container{
+		width:96%;
+	}
+
+	.page3.right-part{
+		float:right;
+		width:90%
+	}
+}
+@media(max-width:1165px)
+{
+	.page5-left-part{
+		float:right;
+		margin-bottom:100px;
+		width:100%
+	}
+	.page5-right-part{
+		width:90%
+	}
+}
+@media(max-width:444px){
+	.title{
+		font-size:60px;
+	}
+}
+
+@media(max-width:444px)
+{
+	.page5-title{
+		font-size:55px;
+	}
+}
+@media(max-width:330px)
+{	
+	.title-img img{
+		width:78px;
+		height:78px;
+		border-width: 8px;
+	}
+
+	.page1-title h1{
+	font-size: 100px;
+}
+}
