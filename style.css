@@ -204,6 +204,7 @@ a:hover,a:focus{
 /*page3 skill*/
 .page3{
 	width:100%;
+	margin-bottom: 60px;
 }
 
 .page3 .title-part{
@@ -236,6 +237,7 @@ a:hover,a:focus{
 .page4{
 	width:100%;
 	flex-direction: column;
+	margin-bottom: 40px;
 }
 
 .proj-part{
@@ -244,7 +246,6 @@ a:hover,a:focus{
 }
 
 .proj-item{
-	margin-bottom: 60px;
 	padding: 20px;
 }
 
